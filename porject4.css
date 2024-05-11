@@ -1,0 +1,19 @@
+.input-field .input{
+    height: 45px;
+    width: 87%;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    color: #fff;
+    padding: 0 0 0 42px;
+    background:rgba(255, 255, 255,  0.1);
+}
+i{
+    position: relative;
+    top: -31px;
+    left: 17px;
+    color: #fff;
+}
+::-webkit-input-placeholder{
+    color: #fff;
+}
